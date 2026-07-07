@@ -12,8 +12,12 @@ soma= a+b
 subtracao= a-b
 multiplicacao= a*b
 divisao= a/b
+resto= a%b
+exponenciacao= a**b
 
 print(f"{a} + {b} = {soma}")
 print(f"{a} - {b} = {subtracao}")
 print(f"{a} * {b} = {multiplicacao}")
 print(f"{a} / {b} = {divisao}")
+print(f"{a} % {b} = {resto}")
+print(f"{a} ** {b} = {exponenciacao}")
