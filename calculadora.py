@@ -5,7 +5,7 @@ git config --global user.email "seu@email.com"
 #mini calculadora 
 #aluno: Lais Luzano
 
-a= 10
+a= 12
 b= 5
 
 soma= a+b
